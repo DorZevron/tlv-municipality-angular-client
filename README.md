@@ -2,7 +2,7 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.12.
 
-This repository contains the full-stack solution for the Tel Aviv Municipality development assignment. The project demonstrates client-server communication, form validation, and a custom server-side rate-limiting mechanism with state recovery.
+This repository contains the Front-End solution for the Tel Aviv Municipality development assignment. The project demonstrates client-server communication, form validation, and a custom server-side rate-limiting mechanism with state recovery.
 
 ## Architecture & Tech Stack
 
